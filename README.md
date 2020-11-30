@@ -19,7 +19,7 @@ samples, guidance on mobile development, and a full API reference.
 
 Rigth after running the aplication you should see this image:
 
-(https://github.com/koulf/HomeGroApp/blob/main/assets/main_screen.jpeg?raw=true)
+![](https://github.com/koulf/HomeGroApp/blob/main/assets/main_screen.jpeg)
 
 **Note:** Before try to scan for device, you must turn the bluetooth services
 of the your mobile device.
@@ -27,4 +27,4 @@ of the your mobile device.
 After scanning devices, you should see the list of available devices. Now, you can
 click on one device, and after that you should see the following screen:
 
-![](https://github.com/koulf/HomeGroApp/blob/main/assets/send_data.jpeg?raw=true)
+![](https://github.com/koulf/HomeGroApp/blob/main/assets/send_data.jpeg)
