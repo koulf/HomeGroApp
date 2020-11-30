@@ -85,6 +85,25 @@ class _MyHomePageState extends State<MyHomePage> {
                   padding: EdgeInsets.symmetric(vertical: 10),
                   child: Text("Connected to: ${device.name}"),
                 ),
+                Padding(
+                  padding: EdgeInsets.only(bottom: 20),
+                  child: TextField(
+                    decoration: InputDecoration(
+                      filled: true,
+                      labelText: 'SSID'
+                    )
+                  )
+                ),
+                Padding(
+                  padding: EdgeInsets.only(bottom: 20),
+                  child: TextField(
+                    decoration: InputDecoration(
+                      filled: true,
+                      labelText: 'Password'
+                    ),
+                    obscureText: true
+                  )
+                ),
                 MaterialButton(
                   onPressed: () {
                     print('Sending data');
