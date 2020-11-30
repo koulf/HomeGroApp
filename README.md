@@ -17,11 +17,12 @@ samples, guidance on mobile development, and a full API reference.
 
 ## Demostration
 
-Rigth after running the aplication you should see this image:
+Rigth after running the aplication and scanning you should see on the screen something
+like this:
 
 ![](https://github.com/koulf/HomeGroApp/blob/main/assets/main_screen.jpeg)
 
-**Note:** Before try to scan for device, you must turn the bluetooth services
+**Note:** Before scanning for devices, you must turn on the bluetooth services
 of the your mobile device.
 
 After scanning devices, you should see the list of available devices. Now, you can
