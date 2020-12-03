@@ -16,7 +16,7 @@ DHT dht(DHTPIN, DHTTYPE, 11);
 /* Variables to sense and pin define**/
 float temperature;
 float humidity;
-const char *deviceToken = "BBFF-mI07ByVJpWXrdFdJCX6dH7RUVqjK2p";
+const char *deviceToken = "token_del_device_ubidots";
 
 int pinDHT11 = 2;
 int water_pump_pin = 3;
